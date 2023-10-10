@@ -1,16 +1,24 @@
-### Hi there 👋
+ # Olá, sou Lucas Sousa! 👋
 
-<!--
-**lucassousaj/lucassousaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou um aspirante a desenvolvedor backend apaixonado por construir os bastidores que tornam as aplicações possíveis.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou aprendendo Javascript.
+- 👯 Estou procurando colaborar em projetos open source.
+- 💬 Pergunte-me sobre Postgresql.
+- 📫 Como me encontrar: LinkedIn https://www.linkedin.com/lucascodeserver
+
+## Linguagens e Ferramentas
+
+- Javascript
+- Typescript
+- SQL
+- Node.js
+  
+## Projetos Destacados
+
+- Desafio de Lógica https://github.com/lucascodeserver/Desafio.de.Logica.Modulo1
+- Sistema Bancário https://github.com/lucascodeserver/desafio-backend-modulo-02-sistema-bancario-dbe-t03
+
+Espero que goste de explorar meus projetos! 😊
