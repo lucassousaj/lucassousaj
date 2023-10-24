@@ -19,6 +19,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um aspirante a desenvolvedor backend apai
 ## Projetos Destacados
 
 - Desafio Backend Sistema Bancário https://github.com/lucassousaj/desafio-backend-modulo-02-sistema-bancario-dbe-t03
-- Desafio Back-end |  RESTful API | Sistema de Administração de Usuário https://github.com/lucassousaj/desafio-backend-03-dindin-dbe-t03)https://github.com/lucassousaj/desafio-backend-03-dindin-dbe-t03
+- Desafio Back-end |  RESTful API | Sistema de Administração de Usuário https://github.com/lucassousaj/desafio-backend-03-dindin-dbe-t03
 
 Espero que goste de explorar meus projetos! 😊
