@@ -18,7 +18,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um aspirante a desenvolvedor backend apai
   
 ## Projetos Destacados
 
-- Desafio de Lógica https://github.com/lucascodeserver/Desafio.de.Logica.Modulo1
+- Desafio Backend Sistema Bancário https://github.com/lucassousaj/desafio-backend-modulo-02-sistema-bancario-dbe-t03
 - Sistema Bancário https://github.com/lucascodeserver/desafio-backend-modulo-02-sistema-bancario-dbe-t03
 
 Espero que goste de explorar meus projetos! 😊
