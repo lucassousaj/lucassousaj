@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um aspirante a desenvolvedor backend apai
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo Javascript.
+- 🌱 Atualmente estou aprendendo Typescript.
 - 👯 Estou procurando colaborar em projetos open source.
 - 💬 Pergunte-me sobre Postgresql.
 - 📫 Como me encontrar: LinkedIn https://www.linkedin.com/lucassousaj
